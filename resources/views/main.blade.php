@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Lajur24</title>
+    <title>Lajur24 (2024)</title>
 
 
     <!-- ===============================================-->
@@ -80,7 +80,7 @@
                             src="assets/img/hero/new-hero.svg" alt="hero-header" /></div>
                     <div class="col-md-7 col-lg-6 text-md-start text-center py-6">
                         <h4 class="fw-bold text-danger mb-3">Quick Count</h4>
-                        <h1 class="hero-title">Lajur24</h1>
+                        <h1 class="hero-title">Lajur24 (2024)</h1>
                         <p class="mb-4 fw-medium">Memberikan informasi seputar hasil quick count pemilu di Ketapang<br
                                 class="d-none d-xl-block" />Kalimantan Barat dengan menyajikannya kedalam bentuk
                             informasi<br class="d-none d-xl-block" />yang mudah dan terpercaya</p>
@@ -100,7 +100,7 @@
                         src="assets/img/dest/shape.svg" alt="destination" /></div>
                 <div class="mb-7 text-center">
                     <h5 class="text-secondary">Daftar</h5>
-                    <h3 class="fs-xl-10 fs-lg-8 fs-7 fw-bold font-cursive text-capitalize">Calon</h3>
+                    <h3 class="fs-xl-10 fs-lg-8 fs-7 fw-bold font-cursive text-capitalize">Calon (2024)</h3>
                 </div>
 
                 <div class="swiper mySwiper">
